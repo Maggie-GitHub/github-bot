@@ -28,7 +28,7 @@ const makeCommit = n =>{
 
 // test
 
-makeCommit(100);
+makeCommit(500);
 
 /**const FILE_PATH = './data.json';
 
