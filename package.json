@@ -1,0 +1,24 @@
+{
+  "name": "1.0.0",
+  "version": "1.0.0",
+  "description": "full green boxs in your github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maggie-GitHub/github-bot.git"
+  },
+  "author": "Maggie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maggie-GitHub/github-bot/issues"
+  },
+  "homepage": "https://github.com/Maggie-GitHub/github-bot#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.4",
+    "simple-git": "^3.20.0"
+  }
+}
